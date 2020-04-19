@@ -5,6 +5,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { FormBuilder , FormGroup} from '@angular/forms';
 @Component({
+  
   selector: 'app-hero-form',
   templateUrl: './main-component.html',
   styleUrls: ['./main-component.scss']
